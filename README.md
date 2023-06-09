@@ -1,29 +1,23 @@
-### Hi there 👋
 
-# Welcome!
 
- 
-
-## I'm (SEU NOME)!
+# Eai
 
  
 
-:computer: I'm Front-End Developer!
-
-:house_with_garden: I’m from Brazil.
-
-:books: I’m currently learning everything.
-
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+## Meu nome é Igor!
 
  
 
-## About me
+:computer: Eu sou um estudante de desenvolvimento!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+:house_with_garden: Eu moro no Brasil.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+:books: Atualmente estou aprendendo HTML, CSS, PHP, Javascript, PHP e Python
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=igufeliphe)
+:outbox_tray: Meu primeiro contato com a programação foi em 2015 quando com dois amigos abri um servidor de Transformice Usando FLASH e Python e então segui aprendendo e trabalhando com o tempo que consigo na programação, e desejo migrar 100% para ser um Dev
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/igufeliphe)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igufeliphe/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/igufeliphe/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/igufeliphe)
+ 
+
+## Me encontre aqui
+
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igufeliphe/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/igufeliphe/) 
