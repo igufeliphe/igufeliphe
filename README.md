@@ -10,7 +10,7 @@
 
 :books: Atualmente tenho familiaridade com HTML, CSS, PHP e estou estudando Javascript, Python e suas bibliotecas
 
-:outbox_tray: Meu primeiro contato com a programação foi em 2015 quando com dois amigos abri um servidor de Transformice Usando FLASH e Python e então segui aprendendo e trabalhando com o tempo que consigo na programação, e desejo migrar 100% para ser um Dev
+:outbox_tray: Meu primeiro contato com a programação foi em 2015 quando com três amigos abri um servidor de Transformice Usando FLASH e Python e então segui aprendendo e trabalhando com o tempo que consigo na programação, e desejo migrar 100% para ser um Dev
 
  
 
